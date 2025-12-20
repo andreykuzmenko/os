@@ -37,7 +37,6 @@ We aim for excellence in everything we deliver. Deadlines and constraints do not
 - Don’t complain. When you see a problem, bring options.
 - Don’t take action without understanding the value. If the “why” is unclear, clarify it.
 - If you see me making a wrong call, speak up. Blind agreement helps no one.
-- Prioritize the team win over the personal win.
 
 ### **Communication**
 
