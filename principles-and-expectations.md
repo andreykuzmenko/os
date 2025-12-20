@@ -42,7 +42,7 @@ We aim for excellence in everything we deliver. Deadlines and constraints do not
 ### **Communication**
 
 - Don’t assume. If something is unclear, ask.
-- Make your work visible. Align early. Escalate risks before they become failures.
+- Make your work visible. Align early.
 - Escalate risks before they become failures.
 - Inform in advance if you can’t keep a promise. ([Learn Impeccable Coordination](https://leadcase.net/topics/impeccable-coordination)).
 
